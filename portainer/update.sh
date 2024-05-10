@@ -4,4 +4,4 @@ sudo docker stop portainer
 
 sudo docker rm -f portainer
 
-sudo bash /home/pi/docker/portainer/startportainer.sh
+sudo bash /home/pi/docker/portainer/start.sh
